@@ -1,0 +1,75 @@
+#banner{
+    background:url(https://images.pexels.com/photos/9299636/pexels-photo-9299636.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+
+}
+
+
+
+/* .banner_overlay h1{color: white;
+    font-weight: bolder;
+    font-size: 60px;
+    text-align: center;
+} */
+
+/* .banner_overlay h4{color: orange;
+    font-weight: bolder;
+
+    text-align: center;
+} */
+
+
+
+/* .main_service{width: 24%;
+    height: 440px;
+    float: left;
+    text-align: center;
+    background-color: floralwhite;
+    border-radius: 10px;
+    transition: all linear .4s;
+    margin-right:.5%;
+    margin-left: .5%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+} */
+
+
+
+.service_icon p{text-align: justify;
+        line-height: 25px;
+        font-family:open sans;
+        margin-bottom: -5px;
+        margin-left: 15px;
+        margin-right: 15px;
+
+}
+
+
+.read_btn a{width: 120px;
+    height: 35px;
+    padding: 0 20px;
+    border-radius: 30px;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 50px;
+}
+
+/* 
+.footer{
+    margin-top: 25%;
+    position: absolute;
+    bottom: 0%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+} */
+
+
+.s_media a{
+    text-decoration: none;
+    color:white
+}
